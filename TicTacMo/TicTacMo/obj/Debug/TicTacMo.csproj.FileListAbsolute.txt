@@ -1,0 +1,6 @@
+c:\users\lkondratczyk\documents\visual studio 2015\Projects\TicTacMo\TicTacMo\bin\Debug\TicTacMo.exe.config
+c:\users\lkondratczyk\documents\visual studio 2015\Projects\TicTacMo\TicTacMo\bin\Debug\TicTacMo.exe
+c:\users\lkondratczyk\documents\visual studio 2015\Projects\TicTacMo\TicTacMo\bin\Debug\TicTacMo.pdb
+c:\users\lkondratczyk\documents\visual studio 2015\Projects\TicTacMo\TicTacMo\obj\Debug\TicTacMo.exe
+c:\users\lkondratczyk\documents\visual studio 2015\Projects\TicTacMo\TicTacMo\obj\Debug\TicTacMo.pdb
+c:\users\lkondratczyk\documents\visual studio 2015\Projects\TicTacMo\TicTacMo\obj\Debug\TicTacMo.csprojResolveAssemblyReference.cache
