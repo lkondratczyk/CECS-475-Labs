@@ -3,3 +3,8 @@ c:\users\lkondratczyk\documents\visual studio 2015\Projects\TicTacMo\TicTacMo\bi
 c:\users\lkondratczyk\documents\visual studio 2015\Projects\TicTacMo\TicTacMo\bin\Debug\TicTacMo.pdb
 c:\users\lkondratczyk\documents\visual studio 2015\Projects\TicTacMo\TicTacMo\obj\Debug\TicTacMo.exe
 c:\users\lkondratczyk\documents\visual studio 2015\Projects\TicTacMo\TicTacMo\obj\Debug\TicTacMo.pdb
+C:\Users\lkondratczyk\Documents\Current School Files\CECS 475\CECS-475-Labs\TicTacMo\TicTacMo\bin\Debug\TicTacMo.exe.config
+C:\Users\lkondratczyk\Documents\Current School Files\CECS 475\CECS-475-Labs\TicTacMo\TicTacMo\obj\Debug\TicTacMo.exe
+C:\Users\lkondratczyk\Documents\Current School Files\CECS 475\CECS-475-Labs\TicTacMo\TicTacMo\obj\Debug\TicTacMo.pdb
+C:\Users\lkondratczyk\Documents\Current School Files\CECS 475\CECS-475-Labs\TicTacMo\TicTacMo\bin\Debug\TicTacMo.exe
+C:\Users\lkondratczyk\Documents\Current School Files\CECS 475\CECS-475-Labs\TicTacMo\TicTacMo\bin\Debug\TicTacMo.pdb
